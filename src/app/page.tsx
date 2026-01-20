@@ -128,7 +128,7 @@ export default function Home() {
               <span className="arrow">↓</span>
             </button>
             <a 
-              href="https://github.com/ethereum/ERCs/pull/1377" 
+              href="https://eip.tools/eip/8092" 
               target="_blank" 
               rel="noopener noreferrer"
               className="spec-link"
